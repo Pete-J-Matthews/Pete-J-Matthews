@@ -12,6 +12,8 @@ Joined Github **1** year ago.
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Pete-J-Matthews/repos?time_range=one_year&group=other&loc_metric=changed&theme=classic)
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Pete-J-Matthews/langs?time_range=one_year&use_percent=True&theme=classic
+
 
 
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
