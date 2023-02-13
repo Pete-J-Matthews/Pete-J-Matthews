@@ -10,11 +10,7 @@ I'm a graduate in Computer Science 🎓 from Codecademy 🏛 and also have a Mec
 
 Joined Github **1** year ago.
 
-Since then I pushed **2564**+ commits, opened **229**+ issues, submitted **285**+ pull requests, created **20**+ gists and contributed to **25**+ public repositories.
-
-Like My Work?
-
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Pete-J-Matthews/langs)](https://githubtrends.io)
 
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
