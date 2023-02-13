@@ -10,13 +10,10 @@ I'm a graduate in Computer Science 🎓 from Codecademy 🏛 and also have a Mec
 
 Joined Github **1** year ago.
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Pete-J-Matthews/repos?time_range=one_year&group=other&loc_metric=changed&theme=classic)
+<img align="center" alt="" src="https://api.githubtrends.io/user/svg/Pete-J-Matthews/repos?time_range=one_year&group=other&loc_metric=changed&theme=classic />
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Pete-J-Matthews/langs?time_range=one_year&use_percent=True&theme=classic
+<img align="center" alt="" src="https://api.githubtrends.io/user/svg/Pete-J-Matthews/langs?time_range=one_year&use_percent=True&theme=classic />
 
-
-
-[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
