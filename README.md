@@ -19,7 +19,7 @@ Joined Github **1** year ago.
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Pete-J-Matthews/Pete-J-Matthews/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: pete.j.matt@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/Pete-J-Matthews/Pete-J-Matthews/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/Pete-J-Matthews/Pete-J-Matthews.github.io/docs/P.Matthews_CV.pdf).
 
 ### My Absolute Favorites:
 
