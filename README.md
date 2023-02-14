@@ -33,7 +33,7 @@ href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pete-j-matthews&show_icons=true&locale=en" alt="pete-j-matthews" /></p>
 
  
-<details>	
+
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
@@ -44,7 +44,7 @@ href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https:
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Medium, Linkedin.</li>
 	    <br />	
-</details>
+
 
 #
 
