@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences **[CV/Resume](https://github.com/Pete-J-Matthews/Pete-J-Matthews.github.io/blob/main/docs/P.Matthews_CV.pdf)**
 
-- ⚡ Fun fact: **I met the Queen.**
+- ⚡ Fun fact: **I've met the Queen.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
