@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Host a Website on GitHub Pages](https://medium.com/@pete.j.matt/how-to-host-a-website-on-github-pages-1e5ec14da464?source=rss-4893a36e0028------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
