@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pete.j.matt@gmail.com**
 
-- 📄 Know about my experiences [**CV/Resume](https://github.com/Pete-J-Matthews/Pete-J-Matthews.github.io/blob/main/docs/P.Matthews_CV.pdf)
+- 📄 Know about my experiences **[CV/Resume](https://github.com/Pete-J-Matthews/Pete-J-Matthews.github.io/blob/main/docs/P.Matthews_CV.pdf)**
 
 - ⚡ Fun fact: **I met the Queen.**
 
