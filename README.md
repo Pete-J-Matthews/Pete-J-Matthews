@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **fpl_bot**
 
-- 👨‍💻 All of my projects are available at [https://www.pete-j-matthews.com](https://www.pete-j-matthews.com)
+- 👨‍💻 All of my projects are available at **[pete-j-matthews.com](https://www.pete-j-matthews.com)**
 
 - 📫 How to reach me **pete.j.matt@gmail.com**
 
