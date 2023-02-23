@@ -45,7 +45,7 @@ href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> macOS Ventura 13.2</li>
+  	    <li><b>OS:</b> macOS Ventura 13.21</li>
 	    <li><b>Laptop: </b> Macbook Air M1</li>
   	    <li><b>Browser: </b> Safari Web Browser</li>
 	    <li><b>Terminal: </b> ZSH  </li>
