@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to enable HTTPS support to GitHub pages using a custom domain](https://medium.com/@pete.j.matt/how-to-enable-https-support-to-github-pages-using-a-custom-domain-dcafab46351?source=rss-4893a36e0028------2)
 - [How to add a custom domain to your GitHub Pages website](https://medium.com/@pete.j.matt/how-to-add-a-custom-domain-to-your-github-pages-website-94ca5cc0f5c?source=rss-4893a36e0028------2)
 - [How to Host a Website on GitHub Pages](https://medium.com/@pete.j.matt/how-to-host-a-website-on-github-pages-1e5ec14da464?source=rss-4893a36e0028------2)
 <!-- BLOG-POST-LIST:END -->
