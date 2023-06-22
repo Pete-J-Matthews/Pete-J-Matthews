@@ -46,11 +46,11 @@ href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> macOS Ventura 13.21</li>
-	    <li><b>Laptop: </b> Macbook Air M1</li>
-  	    <li><b>Browser: </b> Safari Web Browser</li>
+  	    <li><b>OS:</b> macOS Ventura 13 / Linux Ubuntu</li>
+	    <li><b>Laptop: </b> Macbook Air M1 / Dell Inc. XPS 15 9530</li>
+  	    <li><b>Browser: </b> Safari / Firefox</li>
 	    <li><b>Terminal: </b> ZSH  </li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>Code Editor:</b> VSCode </li>
 	    <li><b>To Stay Updated:</b> Medium, Linkedin.</li>
 	    <br />	
 
