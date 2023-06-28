@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pete Matthews</h1>
-<h3 align="center">I currently work as a Junior DevOps Engineer having recently made a career change from Mechanical Engineering!</h3>
+<h3 align="center">I currently work as a Junior DevOps Engineer having recently changed from Mechanical Engineering!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pete-j-matthews&label=Profile%20views&color=0e75b6&style=flat" alt="pete-j-matthews" /> </p>
 
