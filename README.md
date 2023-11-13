@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pete-j-matthews&label=Profile%20views&color=0e75b6&style=flat" alt="pete-j-matthews" /> </p>
 
-- 🔭 I’m currently working on **[FPL-Moneyball](https://github.com/Pete-J-Matthews/FPL-Moneyball)**
+- 🔭 I’m currently working on **[FPL-Moneyball](https://github.com/Pete-J-Matthews/FPL-Moneyball)** and **[LateralMinds](https://github.com/Pete-J-Matthews/lateral-minds)**
 
 - 👨‍💻 All of my projects are available at **[pete-j-matthews.com](https://www.pete-j-matthews.com)**
 
