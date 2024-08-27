@@ -39,7 +39,7 @@ href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
 
 <p><img align="left" src="https://github-readme-stats-pete-j-matthews-projects.vercel.app/api/top-langs?username=pete-j-matthews&show_icons=true&locale=en&layout=compact" alt="pete-j-matthews" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pete-j-matthews&show_icons=true&locale=en" alt="pete-j-matthews" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-pete-j-matthews-projects.vercel.app/api?username=pete-j-matthews&show_icons=true&locale=en" alt="pete-j-matthews" /></p>
 
  
 
