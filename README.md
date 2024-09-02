@@ -13,20 +13,6 @@
 
 - ⚡ Fun fact: **I've met the Queen.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [How to enable HTTPS support to GitHub pages using a custom domain](https://medium.com/@pete.j.matt/how-to-enable-https-support-to-github-pages-using-a-custom-domain-dcafab46351?source=rss-4893a36e0028------2)
-- [How to add a custom domain to your GitHub Pages website](https://medium.com/@pete.j.matt/how-to-add-a-custom-domain-to-your-github-pages-website-94ca5cc0f5c?source=rss-4893a36e0028------2)
-- [How to Host a Website on GitHub Pages](https://medium.com/@pete.j.matt/how-to-host-a-website-on-github-pages-1e5ec14da464?source=rss-4893a36e0028------2)
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pete-j-matthews" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pete-j-matthews" height="30" width="40" /></a>
-<a href="https://medium.com/@pete.j.matt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pete.j.matt" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@pete_j_matt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pete_j_matt" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a
 href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a
@@ -38,6 +24,10 @@ href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <a  href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-pete-j-matthews-projects.vercel.app/api?username=pete-j-matthews&show_icons=true&&hide=stars&locale=en" alt="pete-j-matthews" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-pete-j-matthews-projects.vercel.app/api/top-langs/?username=pete-j-matthews&layout=compact" alt="pete-j-matthews" /></p>
+
+
 
  
 
