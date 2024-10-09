@@ -24,11 +24,6 @@ href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <a  href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-pete-j-matthews-projects.vercel.app/api?username=pete-j-matthews&show_icons=true&&hide=stars&locale=en" alt="pete-j-matthews" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-pete-j-matthews-projects.vercel.app/api/top-langs/?username=pete-j-matthews&layout=compact" alt="pete-j-matthews" /></p>
-
-
-
  
 
   <br />
