@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **how best to regularly crawl a public api without getting rate limited 🤦.**
 
-- ☁️ I've keen interest in the whole software cycle from and would love to create my own product one day!
+- ☁️ I've keen interest in the whole software cycle and would love to create my own product one day!
 
 - 🔭 I’m currently working on **[FPL-Moneyball](https://github.com/Pete-J-Matthews/fpl-moneyball)** 
 
