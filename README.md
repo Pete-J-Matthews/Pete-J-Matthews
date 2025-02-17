@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences **[CV/Resume](https://github.com/Pete-J-Matthews/Pete-J-Matthews.github.io/blob/main/docs/P.Matthews_CV.pdf)**
 
-- ⚡ Fun fact: **I've met the Queen.**
+- ⚡ Fun fact: **I've infiltrated Buckingham Palace!**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a
