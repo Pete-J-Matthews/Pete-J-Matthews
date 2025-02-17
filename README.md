@@ -27,7 +27,7 @@
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> macOS Ventura 13 / Linux Ubuntu</li>
+  	    <li><b>OS:</b> macOS / Linux Ubuntu</li>
 	    <li><b>Laptop: </b> Macbook Air M1 / Dell Inc. XPS 15 9530</li>
   	    <li><b>Browser: </b> Safari / Firefox</li>
 	    <li><b>Terminal: </b> ZSH  </li>
