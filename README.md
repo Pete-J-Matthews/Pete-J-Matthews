@@ -7,7 +7,7 @@
 
 - ☁️ I've keen interest in the whole software cycle and would love to create my own product one day!
 
-- 🔭 I’m currently working on **[FPL-Moneyball](https://github.com/Pete-J-Matthews/fpl-moneyball)** 
+- 🔭 I’m currently working on **[FPL-Cheat(https://github.com/Pete-J-Matthews/fpl-cheat)** 
 
 - 📫 How to reach me **pete.j.matt@gmail.com**
 
@@ -30,9 +30,8 @@
   	    <li><b>OS:</b> macOS / Linux Ubuntu</li>
 	    <li><b>Laptop: </b> Macbook Air M1 / Dell Inc. XPS 15 9530</li>
   	    <li><b>Browser: </b> Safari / Firefox</li>
-	    <li><b>Terminal: </b> ZSH  </li>
-	    <li><b>Code Editor:</b> VSCode </li>
-	    <li><b>To Stay Updated:</b> Medium, Linkedin.</li>
+	    <li><b>Terminal: </b> Fish  </li>
+	    <li><b>Code Editor:</b> VSCode / Cursor </li>
 	    <br />	
 
 
