@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pete-j-matthews&label=Profile%20views&color=0e75b6&style=flat" alt="pete-j-matthews" /> </p>
 
-- 🌱 I’m currently learning **how best to regularly crawl a public api without getting rate limited 🤦.**
+- 🌱 I’m currently creating an app to stop my mates cheating at Fantasy Premier League 🤦.**
 
 - ☁️ I've keen interest in the whole software cycle and would love to create my own product one day!
 
