@@ -7,7 +7,7 @@
 
 - ☁️ I've keen interest in the whole software cycle and would love to create my own product one day!
 
-- 🔭 I’m currently working on **[FPL-Cheat(https://github.com/Pete-J-Matthews/fpl-cheat)** 
+- 🔭 I’m currently working on **[FPL-Cheat](https://github.com/Pete-J-Matthews/fpl-cheat)** 
 
 - 📫 How to reach me **pete.j.matt@gmail.com**
 
