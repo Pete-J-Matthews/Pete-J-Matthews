@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pete Matthews</h1>
-<h3 align="center">I currently work as a DevOps Engineer having transitioned from Mechanical Engineering nearly 2 years ago!</h3>
+<h3 align="center">I currently work as a Software Engineer (DevOps) having transitioned from Mechanical Engineering over 3 years ago!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pete-j-matthews&label=Profile%20views&color=0e75b6&style=flat" alt="pete-j-matthews" /> </p>
 
 - 🔭 I’m currently working on **[FPL-Cheat](https://github.com/Pete-J-Matthews/fpl-cheat)** - an app to stop my mates cheating in Fantasy Premier League!
-
-- ☁️ I've keen interest in the whole software cycle and would love to create my own product one day!
   
 - 🌱 I've contributed to open source projects like in **[django-pgactivity](https://github.com/AmbitionEng/django-pgactivity/pull/11)**
 
